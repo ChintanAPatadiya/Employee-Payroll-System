@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: XYZ, Floor4
+-----------------------------------------------------------------
+  Employee ID		:   10
+  Salary of		:   dec-2100
+  Generated on		:   07-04-2021
+-----------------------------------------------------------------
+  Total Days		:   31
+  Total Present		:   21
+  Total Absent		:   10
+  Convence		:   Rs.1000
+  Medical		:   Rs.2000
+  PF		:   Rs.1000
+  Gross Payment		:   Rs.40000
+  Net Salary		:   Rs.25096.77
+-----------------------------------------------------------------
+  This is computer generated slip, not
+  required any signature
+  

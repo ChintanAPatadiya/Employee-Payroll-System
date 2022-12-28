@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: XYZ, Floor4
+-----------------------------------------------------------------
+  Employee ID		:   9
+  Salary of		:   May-2020
+  Generated on		:   07-04-2021
+-----------------------------------------------------------------
+  Total Days		:   31
+  Total Present		:   20
+  Total Absent		:   11
+  Convence		:   Rs.4200
+  Medical		:   Rs.2566
+  PF		:   Rs.1236
+  Gross Payment		:   Rs.55555
+  Net Salary		:   Rs.36239.94
+-----------------------------------------------------------------
+  This is computer generated slip, not
+  required any signature
+  

@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: XYZ, Floor4
+-----------------------------------------------------------------
+  Employee ID		:   101
+  Salary of		:   4-2022
+  Generated on		:   28-12-2022
+-----------------------------------------------------------------
+  Total Days		:   30
+  Total Present		:   25
+  Total Absent		:   5
+  Convence		:   Rs.1222
+  Medical		:   Rs.5000
+  PF		:   Rs.1345
+  Gross Payment		:   Rs.54600
+  Net Salary		:   Rs.40377.0
+-----------------------------------------------------------------
+  This is computer generated slip, not
+  required any signature
+  
